@@ -1,0 +1,9 @@
+xrandr --output Virtual1 --mode 1920x1080 &
+
+xwallpaper --center .config/wallpaper/prup.jpg &
+
+picom &
+
+slstatus &
+
+exec dwm
